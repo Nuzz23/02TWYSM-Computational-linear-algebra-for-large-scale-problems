@@ -13,3 +13,9 @@ Theory and exercises of the course 02TWYSM Computational linear algebra for larg
 <li>ipympl</li>
 <li>PyYAML</li>
 </ul>
+
+
+
+
+<b>NOTE:</b> <em>Whilst I am the creator of some of the files here present, I am not the rightful owner, nor i claim to be, of other files here present. 
+It's copyright belongs to the rightful owner/s</em>
